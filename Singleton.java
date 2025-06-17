@@ -19,3 +19,4 @@ public class Singleton {
         System.out.println("Are both instances the same? " + (obj1 == obj2));
     }
 }
+
